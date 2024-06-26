@@ -1,7 +1,7 @@
 ## Hyejin's GitHub 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&desc=hyejin's%20GitHub%20Profile&descAlignY=65&descAlign=62"&textBackground=true alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&desc=Hyejin's%20GitHub%20Profile&descAlignY=65&descAlign=62"&textBackground=true alt="header"/>
   <h3>👋 IT's Me 👋</h3>
   할 수 있다  하면 된다  해보자
 </div><br>
