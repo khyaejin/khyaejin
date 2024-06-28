@@ -27,10 +27,9 @@
 
 <div align="center">
   <h3>👩‍💻 My GitHub Status 👩‍💻</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=khyaejin&show_icons=true" alt="hyejin's GitHub stats" />
-<!--     <a href="https://github.com/khyaejin">
+<a href="https://github.com/khyaejin">
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaejin&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" alt="Top Langs" />
-  </a> -->
+  </a> 
     <img src="https://github-profile-trophy.vercel.app/?username=khyaejin&margin-w=15&row=2&column=4&no-frame=true" alt="GitHub Trophy" />
 </div>
 
