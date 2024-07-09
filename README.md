@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&desc=Hyejin's%20GitHub%20Profile&descAlignY=65&descAlign=62"&textBackground=true alt="header"/>
   <h3>👋 IT's Me 👋</h3>
-self-efficacy, between superiority and inferiority. 
+Self-efficacy, between superiority and inferiority. 
 
 <div align="center">
   <h3>📚 Tech Stack 📚</h3>
