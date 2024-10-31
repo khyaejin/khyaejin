@@ -46,17 +46,20 @@ Self-efficacy, between superiority and inferiority.
 
 <div align="center">
 <h3>👩‍💻 My GitHub Status 👩‍💻</h3>
-  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=khyaejin)](https://git.io/streak-stats)
+
 <div align = "center">
   
 <!-- used Languages-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaejin&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" alt="Top Langs" width=40%/>
 
+<!-- git review -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyaejin&show_icons=true&hide=stars)
+
 <!-- trophy-->
 <img src="https://github-profile-trophy.vercel.app/?username=khyaejin&margin-w=15&row=2&column=4&no-frame=true" alt="GitHub Trophy" widtd=58%/>
 
-<!-- git review -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyaejin&show_icons=true&hide=stars)
 </div>
 
 <div align="center">
@@ -65,3 +68,5 @@ Self-efficacy, between superiority and inferiority.
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flhjbg0821&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
   </a>
 </div>
+
+
