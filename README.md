@@ -28,6 +28,11 @@
   </a>
 </span>
 <span>
+  <a href="https://velog.io/@khyaejin/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+</span>
+<span>
     <a href="https://hyejinworkspace.notion.site/HyeJin-fb9e294c759548829fef74e3bc8c43b4?pvs=4">
     <img src="https://img.shields.io/badge/Study-d2e1ff?style=for-the-badge&logo=codeigniter&logoColor=white"/>
   </a>
