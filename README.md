@@ -27,8 +27,8 @@
 
 <!-- GitHub 통계 카드 -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khyaejin&theme=tokyonight" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaejin&layout=compact&theme=radical&hide_border=true" height="159"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khyaejin&theme=tokyonight" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyaejin&layout=compact&theme=radical&hide_border=true" height="140"/>
 
 </div>
 
@@ -36,9 +36,10 @@
 
 <!-- 사용 언어 통계 + 사용 툴 -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khyaejin&theme=tokyonight" height="138" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khyaejin&theme=tokyonight" height="138" />
-  <img src="https://github-readme-stats.vercel.app/api?username=khyaejin&show_icons=true&theme=radical&hide=stars&count_private=true" height="138"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khyaejin&theme=tokyonight" height="140" />
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khyaejin&theme=tokyonight" height="140" />
+   -->
+  <img src="https://github-readme-stats.vercel.app/api?username=khyaejin&show_icons=true&theme=radical&hide=stars&count_private=true" height="140"/>
 </div>
 
 <br/>
