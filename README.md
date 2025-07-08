@@ -123,7 +123,7 @@
   <a href="https://hyejinworkspace.notion.site/9b0f828614b44570ba66110327f7b721" target="_blank">
     <img src="https://github.com/user-attachments/assets/c0cf8105-f001-44fa-97f1-8083e934c59c" width="360" alt="P_ND"/>
   </a>
-  <h3>📄 AI 기반 문서 자동화 플랫폼(PND) </h3>
+  <h3>📄 AI·대시보드 기반 문서 자동화 플랫폼(PND)</h3>
   <p align="center">
     <em>2024.09.25 - 2024.09.26</em><br>
     <strong>AI & 대시보드 기반 프로젝트 문서 간편화 솔루션</strong><br>
