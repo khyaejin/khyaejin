@@ -104,15 +104,45 @@
   <p>*사진을 클릭하면 관련 페이지로 이동됩니다.</p>
 </div>
 
-<!-- HSU Festival -->
+<!-- HSU 스쿨버스 -->
 <div align="center">
-  <a href="https://hyejinworkspace.notion.site/HSU-Festival-2025-Web-Service-1f55f14ba7a58035b183fa39e8e74920" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6a144f7d-35f5-4ee2-9bc6-f970046f3c0e" width="360" alt="HSU Festival 2025 Web Service"/>
+  <a href="https://hyejinworkspace.notion.site/10cac84d6c3643829c330efebd8b80c3?v=54cb322498ef4767ad0673eb9012861b&p=387fc5b9e6b0410a87b0d4e722536d41&pm=c" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2de3e4b4-7c3c-4773-a8c6-ead6895b8780" width="360" alt="HSU-스쿨버스 유지보수"/>
   </a>
-  <h3>🎪 HSU Festival 2025 – Web Service</h3>
+  <h3>🚌 HSU-스쿨버스 (한성대학교 정보화팀)</h3>
   <p align="center">
-    <em>2025.04.16 - 2025.05.14</em><br>
-    <strong>한성대학교 2025 대동제 축제 웹사이트</strong>
+<!--     <em>2024.09 ~ 2025.03.01</em><br>
+    <strong>마을버스(성북02, 종로03) 및 교내 스쿨버스 위치 표기 앱 유지보수</strong> -->
+  </p>
+</div>
+<p align="center">✦ ✦ ✦</p>
+<br>
+
+<!-- P_ND -->
+<div align="center">
+  <a href="https://hyejinworkspace.notion.site/9b0f828614b44570ba66110327f7b721" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c0cf8105-f001-44fa-97f1-8083e934c59c" width="360" alt="P_ND"/>
+  </a>
+  <h3>📄 AI 기반 문서 자동화 플랫폼(PND) </h3>
+  <p align="center">
+    <em>2024.09.25 - 2024.09.26</em><br>
+    <strong>AI & 대시보드 기반 프로젝트 문서 간편화 솔루션</strong><br>
+    🏆 제20회 한성 공학경진대회 은상 수상
+  </p>
+</div>
+<p align="center">✦ ✦ ✦</p>
+<br>
+
+<!-- SCAPTURE -->
+<div align="center">
+  <a href="https://hyejinworkspace.notion.site/2f10b2150df543af8eb4a254e1bac89e" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c1995103-8ef6-4715-8b63-1fadbe6e773b" width="360" alt="SCAPTURE"/>
+  </a>
+  <h3>⚽ SCAPTURE</h3>
+  <p align="center">
+    <em>2024.07.05 - 2025.08.07</em><br>
+    <strong>풋살 하이라이트 영상 자동 생성 · 저장 · 공유 플랫폼</strong><br>
+    🧑🏻‍💼 실제 창업한 스타트업의 웹 서비스 개발
   </p>
 </div>
 <p align="center">✦ ✦ ✦</p>
@@ -133,20 +163,6 @@
 <p align="center">✦ ✦ ✦</p>
 <br>
 
-<!-- HSU 스쿨버스 -->
-<div align="center">
-  <a href="https://hyejinworkspace.notion.site/10cac84d6c3643829c330efebd8b80c3?v=54cb322498ef4767ad0673eb9012861b&p=387fc5b9e6b0410a87b0d4e722536d41&pm=c" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2de3e4b4-7c3c-4773-a8c6-ead6895b8780" width="360" alt="HSU-스쿨버스 유지보수"/>
-  </a>
-  <h3>🚌 HSU-스쿨버스 (한성대학교 정보화팀)</h3>
-  <p align="center">
-    <em>2024.09 ~ 2025.03.01</em><br>
-    <strong>마을버스(성북02, 종로03) 및 교내 스쿨버스 위치 표기 앱 유지보수</strong>
-  </p>
-</div>
-<p align="center">✦ ✦ ✦</p>
-<br>
-
 <!-- 생각잇기 -->
 <div align="center">
   <a href="https://hyejinworkspace.notion.site/1e25f14ba7a5804b9ef6fdce58f1408e" target="_blank">
@@ -162,31 +178,15 @@
 <p align="center">✦ ✦ ✦</p>
 <br>
 
-<!-- P_ND -->
+<!-- HSU Festival -->
 <div align="center">
-  <a href="https://hyejinworkspace.notion.site/9b0f828614b44570ba66110327f7b721" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c0cf8105-f001-44fa-97f1-8083e934c59c" width="360" alt="P_ND"/>
+  <a href="https://hyejinworkspace.notion.site/HSU-Festival-2025-Web-Service-1f55f14ba7a58035b183fa39e8e74920" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6a144f7d-35f5-4ee2-9bc6-f970046f3c0e" width="360" alt="HSU Festival 2025 Web Service"/>
   </a>
-  <h3>📄 P_ND (펜드)</h3>
+  <h3>🎪 HSU Festival 2025 – Web Service</h3>
   <p align="center">
-    <em>2024.09.25 - 2024.09.26</em><br>
-    <strong>AI & 대시보드 기반 프로젝트 문서 간편화 솔루션</strong><br>
-    🏆 제20회 한성 공학경진대회 은상 수상
-  </p>
-</div>
-<p align="center">✦ ✦ ✦</p>
-<br>
-
-<!-- SCAPTURE -->
-<div align="center">
-  <a href="https://hyejinworkspace.notion.site/2f10b2150df543af8eb4a254e1bac89e" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c1995103-8ef6-4715-8b63-1fadbe6e773b" width="360" alt="SCAPTURE"/>
-  </a>
-  <h3>⚽ SCAPTURE</h3>
-  <p align="center">
-    <em>2024.07.05 - 2025.08.07</em><br>
-    <strong>풋살 하이라이트 영상 자동 생성 · 저장 · 공유 플랫폼</strong><br>
-    🧑🏻‍💼 실제 창업한 스타트업의 웹 서비스 개발
+    <em>2025.04.16 - 2025.05.14</em><br>
+    <strong>한성대학교 2025 대동제 축제 웹사이트</strong>
   </p>
 </div>
 <p align="center">✦ ✦ ✦</p>
