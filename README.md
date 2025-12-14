@@ -3,7 +3,9 @@
   <img src="https://github.com/user-attachments/assets/e1681c2f-5e71-4b95-ac61-51350c22fb43" width="180" style="border-radius: 50%;" alt="Profile"/>
 
   <h2>Hyejin’s GitHub Profile</h2>
-  <h4 align="center">아이디어에서 서비스까지, 전체 흐름을 기획하고 구현하는 개발자</h4>
+  <!-- <h4 align="center">아이디어에서 서비스까지, 전체 흐름을 기획하고 구현하는 개발자</h4> -->
+  <h4 align="center">아이디어에서 실제 제품까지, 제로 투 원을 구현하는 개발자</h4>
+
   
   <a href="https://hyejinworkspace.notion.site/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -11,6 +13,12 @@
   <a href="https://velog.io/@khyaejin" target="_blank">
     <img src="https://img.shields.io/badge/Blog-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
+    <a href="https://www.linkedin.com/in/kim-hyejin-152a00395" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+
+  
 </div>
 
 <br/>
@@ -29,6 +37,7 @@
 - **Database & Graph**: MySQL 쿼리 최적화 경험 (인덱스 설계, 실행 계획 분석), Neo4j 활용 경험
 - **LLM & RAG**: RAG 구현 경험, Graph-RAG 기반 학습 보조 서비스 구축 경험
 - **Data Analytics**: Google Analytics 기반 서비스 트래픽 분석 (실사용자 1,000명 규모 데이터 검증)
+- **Monitoring & Testing**: Prometheus, Grafana, k6 (부하 테스트)
 <br/>
 <br/>
 
@@ -37,14 +46,14 @@
 
 ## 02. Experience & Awards
 
-- **유진투자증권 IT본부 인턴 (2025.07 ~ 2025.09, 2개월)**  
-  - AI 조건검색 출시 테스트 참여 (OpenAI API + Python 기반 작은 자동화 스크립트를 작성해 팀의 테스트 효율을 높임)
+- **유진투자증권 IT본부 인턴 (2025.07 ~ 2025.09)**  
+  - AI 조건검색 출시 테스트 참여 (OpenAI API + Python 기반 작은 자동화 스크립트를 작성해 팀의 테스트 효율 향상)
   - NXT·KRX 메인마켓 이행 및 SOR 테스트, 주문 오류 발견·보고로 개선 기여  
   - 신규 시스템(NXT) 오픈: SOT 주문/통합시세 팝업 2종 개발 및 적용  
   - HTS/MTS Builder 교육 및 화면 제작, TR/REAL 송수신 테스트 수행  
   - MTS 서비스 개선 아이디어 제안 (위젯 기능 → 사용자 편의성·재방문율 증대 기대)  
 
-- **한성대 스쿨버스 시스템 유지보수 (2024 ~ 2025)**  
+- **한성대 스쿨버스 시스템 유지보수 (2024.06 ~ 2025.03)**  
   - Docker/Arcon 기반 서버 메모리 최적화, 이슈 해결  
   - 버스 혼잡도 기능 개선 아이디어 제안 및 서비스 안정화 과정 참여
 
@@ -53,23 +62,31 @@
   - 한·일 국제 공동연구 프로젝트에 교수님을 따라 학부연구생으로 협업  
   - 대규모 언어모델(LLM) 및 비전-언어모델(VLM) 기반 기술을 자율주행 연구에 적용  
 
-- **대외활동**  
-  - 멋쟁이사자처럼 중앙운영단 학술부 (2025) – 전국 대학 세션 자료·해커톤 가이드 관리  
-  - 멋사 13기 백엔드 운영진 (2025) – Spring Boot, JPA, JWT 등을 주제로 세션 진행 및 과제 설계, GitHub 활용법 지도와 팀 관리 경험  
-  - 한성대 대동제 웹서비스 운영 (2024, 실사용자 1,000명 규모, Google Analytics 기반 데이터 검증)
+- **대외활동 (2025)**  
+  - 멋쟁이사자처럼 중앙운영단 학술부 – 전국 대학 세션 자료·해커톤 가이드 관리  
+  - 멋사 13기 백엔드 운영진 – Spring Boot, JPA, JWT 등을 주제로 세션 진행 및 과제 설계, GitHub 활용법 지도와 팀 관리 경험  
+  - 한성대 대동제 웹서비스 운영 (실사용자 1,000명 규모, Google Analytics 기반 데이터 검증)
 
 - **논문 및 연구 (2025)**  
-  - 한국통신학회(KICS) 학부 논문 2편 (자연어처리 분야)  
+  - 한국통신학회(KICS) 학부 논문 2편 (자연어처리 분야) 
     - (주저자) 외래어 표기 변형 문제 해결 → 학부 우수논문상 수상  
     - (공동저자) 다의어 처리 연구  
 
 - **아이디어 경진대회 (2025)**  
   - **한국통신학회(KICS) 2025W** – 스마트 음성 필터(딥보이스 방지) → 최우수상 
-  - **한국통신학회(KICS) 2025S** – SDR 기반 스마트 주차 인프라 → 후원업체상 
+  - **한국통신학회(KICS) 2025S** – SDR 기반 스마트 주차 인프라 → 후원업체상
+- **해외 경험**
+  - 싱가포르 SW/AI 산학연계 프로그램 (2025.11)
+     - PrestoLabs 산학 프로젝트 3등 수상
+    - 무기한 선물 거래 데이터 기반 이상거래 탐지 알고리즘 설계
+    - Python EDA → 탐지 로직 구현 → 검증 전 과정 수행
+- **교내 활동**
+   - 성적장학금 4회 수상
+   - 한성대학교 캡스톤 디자인 장려상 (2025.05)
+   - 한성 SW중심대학 페스티벌 최우수상 (2024.11)
+   - 제20회 한성 공학경진대회 은상 (2024.09)
 
-<br/>
-<br/>
-
+<br><br>
 ## 03. Projects
 
 <p align="center">*사진을 클릭하면 관련 페이지로 이동됩니다.</p>
