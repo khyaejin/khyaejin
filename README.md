@@ -4,9 +4,9 @@
 
   <h2>Hyejin’s GitHub Profile</h2>
   <!-- <h4 align="center">아이디어에서 서비스까지, 전체 흐름을 기획하고 구현하는 개발자</h4> -->
-  <h4 align="center">아이디어에서 실제 제품까지, 제로 투 원을 구현하는 개발자</h4>
+  <!-- <h4 align="center">아이디어에서 실제 제품까지, 제로 투 원을 구현하는 개발자</h4> -->
+  <h4 align="center">신뢰할 수 있는 서버 시스템을 구축하고자 여러 경험을 쌓아 온 백엔드 개발자입니다.</h4>
 
-  
   <a href="https://hyejinworkspace.notion.site/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
